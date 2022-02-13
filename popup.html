@@ -1,0 +1,58 @@
+
+
+<!-- iyjuhtgrfgh;loukijhgf';.,umhtgrfd -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Commentcheck</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Prompt&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+      <div class="flex-center">
+      <div class="font">
+    <h1><div class ="blue">น้องโสตถิ</div></h1>
+      </div>
+      <img src="index.png" alt = "index.png" width="300px" height="300px">
+      <div class="font">
+      <p>ระบบตรวจสอบ comment ว่า comment ที่เรา <br>post  อาจทำให้ส่งผลทางจิตใจของผู้ที่มาเห็น"
+      </p>
+      <div id="spoiler" style = "display:none">
+        <h2>
+        <div id='message'>Injecting Script....</div>
+        </div>
+        <center>
+            <h1>
+                <div class="red">        
+        <div id='messagedisplay'>Loading....</div>
+    </div>   
+    </h1> 
+    </center>
+    </div>
+    <!-- Inspiration: https://dribbble.com/shots/4397812-Click-Me -->
+
+    <div class="wrapper">
+        <a class="button" href="#">เรียนรู้เพิ่มเติม</a>
+    </div>
+    
+    <!-- Filter: https://css-tricks.com/gooey-effect/ -->
+    <svg style="visibility: hidden; position: absolute;" width="0" height="0" xmlns="http://www.w3.org/2000/svg" version="1.1">
+        <defs>
+            <filter id="goo"><feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />    
+                <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -9" result="goo" />
+                <feComposite in="SourceGraphic" in2="goo" operator="atop"/>
+            </filter>
+        </defs>
+    </svg>
+    </div>
+    <script src='popup.js'></script>
+  </body>
+</html>

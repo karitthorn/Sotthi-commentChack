@@ -1,0 +1,17 @@
+{
+    "name": "Get pages source",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Get pages source from a popup",
+
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon":"logo.png"
+    },
+    "permissions": ["tabs", "<all_urls>"],
+    "background": {
+      "scripts": ["popup.js"],
+      "persistent": false
+    }
+
+  }
