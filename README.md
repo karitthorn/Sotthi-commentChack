@@ -13,7 +13,7 @@
  ![img2](https://raw.githubusercontent.com/karitthorn/photo/main/image%20(1).png)
  ![img1](https://raw.githubusercontent.com/karitthorn/photo/main/1.png)
  
- # "hy
+ # Why
  เพื่อเเก้ปัญหา ไซเบอร์บูลลี่ ซึ่ง การโดนไซเบอร์บูลลี่อาจจะทำให้ ฝ่าบถูกกระทำ *ฆ่าตัวตายได้*
  
  [ดูต่อที่นี้](https://www.youtube.com/watch?v=e77JEpHkOEg)
