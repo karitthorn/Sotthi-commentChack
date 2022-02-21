@@ -3,9 +3,13 @@
  
  โดยระบบตรวจจับคำหยาบคายที่เราเขียนใน comment
  
+ 
+
  *ตอนนี้ใช้เเค่กับ facebook นะครับ*
  
+  ## ในกรณีปกติ
  ![img](https://raw.githubusercontent.com/karitthorn/photo/main/image.png)
+ ## กรณีพบคำหยาบคาย
  ![img2](https://raw.githubusercontent.com/karitthorn/photo/main/image%20(1).png)
  ![img1](https://raw.githubusercontent.com/karitthorn/photo/main/1.png)
  
