@@ -5,7 +5,9 @@
  
  *ตอนนี้ใช้เเค่กับ facebook นะครับ*
  
- 
+ ![img](https://raw.githubusercontent.com/karitthorn/photo/main/image.png)
+ ![img2](https://raw.githubusercontent.com/karitthorn/photo/main/image%20(1).png)
+ ![img1](https://raw.githubusercontent.com/karitthorn/photo/main/1.png)
  
  #why
  เพื่อเเก้ปัญหา ไซเบอร์บูลลี่ ซึ่ง การโดนไซเบอร์บูลลี่อาจจะทำให้ ฝ่าบถูกกระทำ *ฆ่าตัวตายได้*
