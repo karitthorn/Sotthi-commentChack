@@ -22,5 +22,4 @@
 # How to use!
 >1. Clone  repositories นี่ เเละ ถ้าเป็นไฟล์ zip ให้เเตกไฟล์ก่อน
 >2. เพิ่ม extensions นี้ โดยใช้ folder   "Sotthi-commentChack"
->
->3.Have fun
+
